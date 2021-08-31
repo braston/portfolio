@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: `I'm a Motivated and results-driven Engineer with a passion for working across the full stack. Highly effective at working with teams of engineers across disciplines to accomplish projects on-time and according to cost constraints.`,
   paragraphTwo: ` `,
   paragraphThree: ` `,
-  resume: 'https://drive.google.com/file/d/1AbnHVueBc3pakqGIdcC9KTdcwUZLeiDm/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1wC4OIZQsRV9umnve-bmcbfmbuP0PD04E/view?usp=sharing',
 };
 
 // PROJECTS DATA
